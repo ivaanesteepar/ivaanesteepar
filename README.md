@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Iván. Actualmente estoy estudiando el grado de Ingeniería Informática en la Universidad de Burgos
+Hola, soy Iván. Actualmente estoy estudiando el grado de Ingeniería Informática en la Universidad de Burgos. Mi objetivo es trabajar como desarrollador frontend, principalmente, aunque no descarto otras opciones.
 
 
 ## 🌐 Socials:
