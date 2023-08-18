@@ -2,7 +2,7 @@
 Hola, soy Iván. Actualmente estoy estudiando el grado de Ingeniería Informática en la Universidad de Burgos. Mi objetivo es trabajar como desarrollador frontend, principalmente, aunque no descarto otras opciones.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivaanesteepar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivaanesteepar) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/norvylol) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ivaanesteepar) 
 
 # 💻 Tech Stack:
