@@ -18,5 +18,3 @@ Hola, soy Iván. Actualmente estoy estudiando el grado de Ingeniería Informáti
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ivaanesteepar&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
