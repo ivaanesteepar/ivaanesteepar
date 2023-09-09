@@ -15,6 +15,3 @@ Hola, soy Iván. Actualmente estoy estudiando el grado de Ingeniería Informáti
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ivaanesteepar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ivaanesteepar&icon=0&color=1)](https://visitcount.itsvg.in)
