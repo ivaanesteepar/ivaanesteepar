@@ -1,7 +1,3 @@
-<div align ="center">
-  <img src = "https://media.tenor.com/DmdGTrVNuqMAAAAC/anime.gif" height="170" width="300">
-</div>
-
 # 💫 About Me:
 Hola, soy Iván. Actualmente estoy estudiando el grado de Ingeniería Informática en la Universidad de Burgos. Mi objetivo es trabajar como desarrollador web frontend, aunque no descarto la posibilidad de trabajar como desarrollador web fullstack.
 
