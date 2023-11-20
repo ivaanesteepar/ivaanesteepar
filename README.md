@@ -1,4 +1,4 @@
-<div>
+<div align ="center">
   <img src = "https://media.tenor.com/DmdGTrVNuqMAAAAC/anime.gif">
 </div>
 
