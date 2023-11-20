@@ -1,5 +1,5 @@
 <div align ="center">
-  <img src = "https://media.tenor.com/DmdGTrVNuqMAAAAC/anime.gif">
+  <img src = "https://media.tenor.com/DmdGTrVNuqMAAAAC/anime.gif" height="100" width="100">
 </div>
 
 # 💫 About Me:
