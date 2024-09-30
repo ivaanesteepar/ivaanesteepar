@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy Iván. Actualmente estoy estudiando el grado de Ingeniería Informática en la Universidad de Burgos. Mi objetivo es trabajar como desarrollador web frontend, aunque no descarto la posibilidad de trabajar como desarrollador web fullstack.
+Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Ingeniería Informática en la Universidad de Burgos, con el objetivo de convertirme en desarrollador web front-end. Mi pasión es transformar ideas en interfaces web atractivas y funcionales, centrándome en el rendimiento y la accesibilidad. Además, tengo un fuerte interés en el diseño UX/UI.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ivaanesteepar) 
