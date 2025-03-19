@@ -56,6 +56,9 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
   <a>
     <img src="https://raw.githubusercontent.com/android/compose-samples/main/compose_logo.png" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
   </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
+  </a>
 </div>
 
 # 📊 GitHub Stats:
