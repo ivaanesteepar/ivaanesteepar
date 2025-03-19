@@ -53,9 +53,6 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>
   </a>
-  <a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Jetpack_Compose_logo_%28official%29.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
-  </a>
 </div>
 
 # 📊 GitHub Stats:
