@@ -3,10 +3,10 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
 
 # 🌐 Socials:
 <div style="display: flex; gap: 10px;">
-  <a href="https://instagram.com/ivaanesteepar" target="_blank">
+  <a href="https://instagram.com/ivaanesteepar" target="_blank" style="text-decoration: none; border: none; padding: 0;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" title="Instagram" alt="Instagram" width="40" height="40"/>
   </a>
-  <a href="https://linkedin.com/in/iván-estépar-rebollo-a95206233/" target="_blank">
+  <a href="https://linkedin.com/in/iván-estépar-rebollo-a95206233/" target="_blank" style="text-decoration: none; border: none; padding: 0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
   </a>
 </div>
