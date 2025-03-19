@@ -50,6 +50,9 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
   </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>
+  </a>
 </div>
 
 # 📊 GitHub Stats:
