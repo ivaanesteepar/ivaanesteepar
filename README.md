@@ -54,10 +54,7 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>
   </a>
   <a>
-    <img src="https://raw.githubusercontent.com/android/compose-samples/main/compose_logo.png" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
   </a>
 </div>
 
