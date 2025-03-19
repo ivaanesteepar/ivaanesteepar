@@ -4,7 +4,7 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
 # 🌐 Socials:
 <div style="display: flex; gap: 10px;">
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" title="Instagram" alt="Instagram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" title="Instagram" alt="Instagram" width="40" height="40"/>
   </a>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
