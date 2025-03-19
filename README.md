@@ -34,7 +34,7 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
 
 # 🛠️ Other Technologies:
 <a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40" style="border: none;"/>
 </a>
 
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
