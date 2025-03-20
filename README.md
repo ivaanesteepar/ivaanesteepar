@@ -2,14 +2,9 @@
 Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Ingeniería Informática en la Universidad de Burgos, con el objetivo de convertirme en desarrollador web o desarrollador de aplicaciones. Mi pasión es transformar ideas en interfaces web atractivas y funcionales, centrándome en el rendimiento y la accesibilidad.
 
 # 🌐 Socials:
-<div style="display: flex; gap: 10px;">
-  <a href="https://instagram.com/ivaanesteepar" target="_blank" style="text-decoration: none; color: inherit; outline: none; border: none; padding: 0; box-shadow: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" title="Instagram" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/iván-estépar-rebollo-a95206233/" target="_blank" style="text-decoration: none; color: inherit; outline: none; border: none; padding: 0; box-shadow: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</div>
+<a href="https://linkedin.com/in/iván-estépar-rebollo-a95206233/" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 # 💻 Tech Stack:
 <div style="display: flex; gap: 10px;">
