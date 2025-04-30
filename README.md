@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Ingeniería Informática en la Universidad de Burgos, con el objetivo de convertirme en desarrollador web o desarrollador de aplicaciones. Mi pasión es transformar ideas en interfaces web atractivas y funcionales, centrándome en el rendimiento y la accesibilidad.
+
 🎨 Fun fact: ¡Mi tema favorito de Visual Studio Code es [**Dracula**](https://draculatheme.com/)! 🧛‍♂️
 
 # 🌐 Socials:
