@@ -31,6 +31,9 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
   </a>
+    <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
+  </a>
 </div>
 
 # 🛠️ Other Technologies:
