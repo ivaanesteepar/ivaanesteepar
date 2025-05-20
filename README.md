@@ -73,4 +73,4 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
 ![](https://github-profile-trophy.vercel.app/?username=ivaanesteepar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 #
-[![](https://visitcount.itsvg.in/api?id=ivaanesteepar&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{ivaanesteepar}/count.svg)
