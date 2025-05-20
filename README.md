@@ -73,4 +73,4 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
 ![](https://github-profile-trophy.vercel.app/?username=ivaanesteepar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 #
-![](https://komarev.com/ghpvc/?username=ivaanesteepar&color=green)
+![](https://komarev.com/ghpvc/?username=ivaanesteepar&color=blueviolet)
