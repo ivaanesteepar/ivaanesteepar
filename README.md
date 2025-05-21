@@ -4,7 +4,7 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
 > 🎨 Fun fact: ¡Mi tema favorito de Visual Studio Code es <a href="https://draculatheme.com/visual-studio-code"><strong>Dracula</strong></a>! 🧛‍♂️
 
 # 🌐 Socials:
-<a href="https://linkedin.com/in/iván-estépar-rebollo-a95206233/" target="_blank" style="text-decoration: none;">
+<a href="https://www.linkedin.com/in/iv%C3%A1n-est%C3%A9par-a95206233/" target="_blank" style="text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
 </a>
 
