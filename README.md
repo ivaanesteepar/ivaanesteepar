@@ -62,12 +62,14 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
 </div>
 
 # 🎨 Design:
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
-</a>
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="40" />   
-</a>
+<div style="display: flex; gap: 10px;">
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
+  </a>
+  <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="40" />   
+  </a>
+</div>
 
 
 # 📊 GitHub Stats:
