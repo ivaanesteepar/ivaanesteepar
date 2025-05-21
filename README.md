@@ -54,18 +54,21 @@ Hola, soy Iván!!! Actualmente estoy cursando mi cuarto año en el grado de Inge
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>
   </a>
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
-  </a>
-  <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="40"/>
   </a>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" height="40" />   
   </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="40" />   
-  </a>
 </div>
+
+# 🎨 Design:
+<a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
+</a>
+<a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="40" />   
+</a>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ivaanesteepar&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
