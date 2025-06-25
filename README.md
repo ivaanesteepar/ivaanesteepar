@@ -49,7 +49,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" title="SonarQube" alt="SonarQube" width="40" height="40"/>
   </a>
   <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
+    <img src="https://developer.android.com/images/logos/android-studio.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   </a>
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
