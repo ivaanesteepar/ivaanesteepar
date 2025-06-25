@@ -1,7 +1,10 @@
 # 💫 About Me:
-Hola, soy Iván. Soy ingeniero informático graduado por la Universidad de Burgos, con pasión por el desarrollo web y de aplicaciones. Me gusta transformar ideas en interfaces atractivas y funcionales, siempre con un enfoque en el rendimiento, la accesibilidad y la buena experiencia de usuario.
+<p>Hello, I'm Iván. I'm a computer engineer graduated from the University of Burgos, with a passion for web and application development. I enjoy turning ideas into attractive and functional interfaces, always focusing on performance, accessibility, and great user experience.</p>
 
-> 🎨 Fun fact: ¡Mi tema favorito de Visual Studio Code es <a href="https://draculatheme.com/visual-studio-code"><strong>Dracula</strong></a>! 🧛‍♂️
+<blockquote>
+  🎨 Fun fact: My favorite Visual Studio Code theme is 
+  <a href="https://draculatheme.com/visual-studio-code"><strong>Dracula</strong></a>! 🧛‍♂️
+</blockquote>
 
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/iv%C3%A1n-est%C3%A9par-a95206233/" target="_blank" style="text-decoration: none;">
