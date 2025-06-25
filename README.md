@@ -1,4 +1,3 @@
-#
 ![](https://komarev.com/ghpvc/?username=ivaanesteepar&color=blueviolet)
 
 # 💫 About Me:
