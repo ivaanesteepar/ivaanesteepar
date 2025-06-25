@@ -1,4 +1,7 @@
-![](https://komarev.com/ghpvc/?username=ivaanesteepar&color=blueviolet)
+<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=ivaanesteepar&color=blueviolet" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-🚀%20Coding-blue?style=for-the-badge" alt="Status" />
+</p>
 
 # 💫 About Me:
 <p>Hello, I'm Iván!</p>
