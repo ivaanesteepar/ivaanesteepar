@@ -4,7 +4,7 @@
 
 <blockquote>
   🎨 Fun fact: My favorite Visual Studio Code theme is 
-  <a href="https://draculatheme.com/visual-studio-code"><strong>Dracula</strong></a>! 🧛‍♂️
+  <a href="https://draculatheme.com/visual-studio-code" target="_blank" rel="noopener noreferrer"><strong>Dracula</strong></a>! 🧛‍♂️
 </blockquote>
 
 # 🌐 Socials:
