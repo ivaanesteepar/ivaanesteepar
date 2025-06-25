@@ -1,3 +1,6 @@
+#
+![](https://komarev.com/ghpvc/?username=ivaanesteepar&color=blueviolet)
+
 # 💫 About Me:
 <p>Hello, I'm Iván!</p>
 <p>I'm a computer engineer graduated from the University of Burgos, with a passion for web and application development. I enjoy turning ideas into attractive and functional interfaces, always focusing on performance, accessibility, and great user experience.</p>
@@ -83,6 +86,3 @@
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ivaanesteepar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-#
-![](https://komarev.com/ghpvc/?username=ivaanesteepar&color=blueviolet)
