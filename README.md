@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/Status-%F0%9F%9A%80%20Coding-blueviolet?style=flat" alt="Status" />
 </p>
 
-
 # 💫 About Me:
 <p>Hello, I'm Iván!</p>
 <p>I'm a computer engineer graduated from the University of Burgos, with a passion for web and application development. I enjoy turning ideas into attractive and functional interfaces, always focusing on performance, accessibility, and great user experience.</p>
@@ -25,17 +24,15 @@
   <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,python,php,postgresql,c" />
 </p>
 
-
 # 🛠️ Other Technologies:
 <p>
-  <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,intellij,vscode" />
 </p>
 
 # 🎨 Design:
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
-
 
 
 # 📊 GitHub Stats:
