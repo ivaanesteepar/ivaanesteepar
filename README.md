@@ -19,67 +19,21 @@
 </a>
 
 # 💻 Tech Stack:
-<div style="display: flex; gap: 10px;">
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
-  </a>
-    <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,python,php,postgresql,c" />
+</p>
+
 
 # 🛠️ Other Technologies:
-<div style="display: flex; gap: 10px;">
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" title="SonarQube" alt="SonarQube" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://developer.android.com/images/logos/android-studio.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/drupal/drupal-original.svg" title="Drupal" alt="Drupal" width="40" height="40"/>
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="Visual Studio Code" height="40" />   
-  </a>
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alt="Jetpack Compose" width="40" height="40"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,jupyter,vscode" />
+</p>
 
 # 🎨 Design:
-<div style="display: flex; gap: 10px;">
-  <a>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="Figma" alt="Figma" height="40" />   
-  </a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
 
 
 # 📊 GitHub Stats:
@@ -89,8 +43,4 @@
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ivaanesteepar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,python,php,postgresql,c" />
-</p>
 
