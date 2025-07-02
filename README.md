@@ -89,3 +89,8 @@
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ivaanesteepar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,python,php,postgresql,c" />
+</p>
+
