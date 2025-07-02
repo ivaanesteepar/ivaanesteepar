@@ -26,7 +26,7 @@
 
 # 🛠️ Other Technologies:
 <p>
-  <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,intellij,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,idea,vscode" />
 </p>
 
 # 🎨 Design:
