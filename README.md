@@ -14,9 +14,11 @@
 </blockquote>
 
 # 🌐 Socials:
-<a href="https://www.linkedin.com/in/iv%C3%A1n-est%C3%A9par-a95206233/" target="_blank" style="text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/iv%C3%A1n-est%C3%A9par-a95206233/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" />
+  </a>
+</p>
 
 # 💻 Tech Stack:
 <p>
