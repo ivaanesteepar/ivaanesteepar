@@ -1,7 +1,7 @@
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 50px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 50px;">
   <img src="https://komarev.com/ghpvc/?username=ivaanesteepar&color=blueviolet" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-%F0%9F%9A%80%20Coding-blueviolet?style=flat" alt="Status" />
-</p>
+</div>
 
 # 💫 About Me:
 <p>Hello, I'm Iván!</p>
