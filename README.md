@@ -44,3 +44,6 @@
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ivaanesteepar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaanesteepar&layout=compact&theme=radical)
+
+
