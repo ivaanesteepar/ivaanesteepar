@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 <p>Hello, I'm Iván!</p>
-<p>I'm a computer engineer graduated from the University of Burgos, with a passion for web and application development. I enjoy turning ideas into attractive and functional interfaces, always focusing on performance, accessibility, and great user experience.</p>
+<p>I'm a software engineer graduated from the University of Burgos, with a passion for web and application development. I enjoy turning ideas into attractive and functional interfaces, always focusing on performance, accessibility, and great user experience.</p>
 
 <blockquote>
   🎨 Fun fact: My favorite Visual Studio Code theme is 
