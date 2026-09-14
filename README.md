@@ -22,12 +22,12 @@
 
 # 💻 Tech Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,python,php,postgresql,c,flask" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,python,typescript,postgresql,c,flask" />
 </p>
 
 # 🛠️ Other Technologies:
 <p>
-  <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,idea,vscode,gitlab,github,linux" />
+  <img src="https://skillicons.dev/icons?i=git,firebase,androidstudio,idea,vscode,gitlab,github,linux,angular" />
 </p>
 
 # 🎨 Design:
