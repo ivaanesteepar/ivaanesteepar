@@ -22,7 +22,7 @@
 
 # 💻 Tech Stack:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,python,typescript,sql,c,flask" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,js,python,typescript,postgresql,c,flask" />
 </p>
 
 # 🛠️ Other Technologies:
